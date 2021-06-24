@@ -4,4 +4,4 @@ Vortrag im Rahmen der Lehrveranstaltung *Informationsaufbereitung und -organisat
 
 Die Vortragsfolien sind veröffentlicht unter <https://doi.org/10.5281/zenodo.5009003>.
 
-Das Vortragsvideo wir im TIB-AV Portal veröffentlicht.
+Das Vortragsvideo wir im TIB-AV Portal unter <https://doi.org/10.5446/53543> veröffentlicht.
